@@ -1,0 +1,2 @@
+# AspectosTarea
+Taller Grupal Aspectos
