@@ -1,22 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>observer</name>
+=======
+	<name>Observer</name>
+>>>>>>> 1b3bb6e400533bdd4a3dfbf99deb95918e9ae84c
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 		<buildCommand>
+<<<<<<< HEAD
 			<name>org.eclipse.jdt.core.javabuilder</name>
+=======
+			<name>org.eclipse.ajdt.core.ajbuilder</name>
+>>>>>>> 1b3bb6e400533bdd4a3dfbf99deb95918e9ae84c
 			<arguments>
 			</arguments>
 		</buildCommand>
 	</buildSpec>
 	<natures>
+<<<<<<< HEAD
+=======
+		<nature>org.eclipse.ajdt.ui.ajnature</nature>
+>>>>>>> 1b3bb6e400533bdd4a3dfbf99deb95918e9ae84c
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1749602318701</id>
+=======
+			<id>1749599226378</id>
+>>>>>>> 1b3bb6e400533bdd4a3dfbf99deb95918e9ae84c
 			<name></name>
 			<type>30</type>
 			<matcher>
